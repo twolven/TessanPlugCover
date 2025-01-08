@@ -17,6 +17,7 @@ This is a friction-fit protective cover for the Japanese/Type A plug configurati
 
 **Note:** You may need to scale the model up or down by 1-3% depending on your printer calibration and filament properties to achieve the ideal friction fit.
 
+![Physical print photo](physical-print.png)
 
 ## Installation
 The cover should slide firmly onto the plug prongs and stay in place through friction. If the fit is too tight or loose, adjust the scaling accordingly in your slicer.
